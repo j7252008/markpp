@@ -172,3 +172,5 @@ Standard:	Cpp11
 TabWidth:	2
 # 使用tab字符: Never, ForIndentation, ForContinuationAndIndentation, Always
 UseTab:	Never
+# 头文件排序
+SortIncludes:  false
